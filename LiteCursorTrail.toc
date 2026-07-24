@@ -1,0 +1,6 @@
+## Interface: 30300
+## Title: Lite Cursor Trail
+## Author: Kamil
+## Version: 1.0
+
+LiteCursorTrail.lua
